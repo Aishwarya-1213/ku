@@ -1,0 +1,38 @@
+.heading{
+    text-align: center;
+}
+.table{
+    border: 1px;
+}
+body{
+    overflow-y:scroll;
+    /* margin-left: 0px; */
+} 
+.input_{
+    margin: 3px;
+}
+.form{
+    margin-left: 0px;
+    margin-top: 50px;
+}
+#rollno{
+text-align: center;
+}
+.mytable{
+    text-align: center;
+    margin-left: 500px;
+}
+.top{
+    text-align: center;
+    margin: 10px;
+}
+.submit{
+    text-align: center;
+    margin-left: 500px;
+    background-color: green;
+    color: white;
+    border: darkgray;
+}
+.label{
+    margin: 2px;
+}
